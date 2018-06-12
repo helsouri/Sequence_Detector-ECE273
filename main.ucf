@@ -1,0 +1,8 @@
+
+
+NET "CLK" LOC = C8;
+NET "CLR" LOC = F3;
+NET "FCLK" LOC = N4;
+NET "Speed" LOC = E2;
+NET "X" LOC = N3;
+NET "Z" LOC = G1;
